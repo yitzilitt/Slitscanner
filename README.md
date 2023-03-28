@@ -9,8 +9,7 @@ I will add examples here later, but for now, let's skip straight into how to use
 2. Install git, if you haven't already (you can get it at https://git-scm.com/downloads)
 3. Open Terminal (or Command Prompt on Windows), and copy-paste the following code: `git clone https://github.com/yitzilitt/Slitscanner.git`
 4. Navigate to the repository folder, by typing `cd Slitscanner`
-5. Put the video which you want to apply the effect to into the same folder
-6. Download the required libraries with the command `pip install -r requirements.txt`
-7. Run the script you want to run by simply typing `python [insert filename of script you want to run here]` (for example, `python SlitScanner_final.py`)
+5. Download the required libraries with the command `pip install -r requirements.txt`
+6. Run the script you want to run by simply typing `python [insert filename of script you want to run here]` (for example, `python main.py`, which will apply the slitscan effect to a video or series of videos located at an [otherwise empty] folder of your choice)
 
 That's it!
