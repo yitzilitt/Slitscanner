@@ -10,6 +10,7 @@ I will add examples here later, but for now, let's skip straight into how to use
 3. Open Terminal (or Command Prompt on Windows), and copy-paste the following code: `git clone https://github.com/yitzilitt/Slitscanner.git`
 4. Navigate to the repository folder, by typing `cd Slitscanner`
 5. Put the video which you want to apply the effect to into the same folder
-6. Download the required libraries with the command `pip install opencv-python tqdm pytube`
+6. Download the required libraries with the command `pip install -r requirements.txt`
 7. Run the script you want to run by simply typing `python [insert filename of script you want to run here]` (for example, `python SlitScanner_final.py`)
+
 That's it!
