@@ -13,7 +13,7 @@ directory = os.path.normpath(directory)
 for filename in os.listdir(directory):
     if os.path.isfile(os.path.join(directory, filename)):
         input_path = os.path.join(directory, filename)
-        output_filename = f"OUTPUT_{filename}"
+        output_filename = "OUTPUT_{}".format(filename)
         output_path = os.path.join(directory, output_filename)
         slit_scan_video(input_path, output_path)
         print("Finished! Check your folder to see the output video(s).")
