@@ -1,7 +1,7 @@
 # Slitscanner
 Swap space and time with a video version of the "slit-scan" effect!
 
-![beer filling up bottle slitscan](https://user-images.githubusercontent.com/28551587/228295253-76ab0be0-ca43-44d4-8f9a-d4eec3132287.png)
+![7g7mvo](https://user-images.githubusercontent.com/28551587/228382056-7c516dc7-5914-4443-ba62-fb42f15506a5.gif)
 
 I will add examples here later, but for now, let's skip straight into how to use this code. Don't worry if you aren't a coder and this looks intimidating; you should be able to follow these instructions step-by-step, even without any technical knowledge.:
 ## How to use
@@ -13,3 +13,5 @@ I will add examples here later, but for now, let's skip straight into how to use
 6. Run the script you want to run by simply typing `python [insert filename of script you want to run here]` (for example, `python main.py`, which will apply the slitscan effect to a video or series of videos located at an [otherwise empty] folder of your choice)
 
 That's it!
+
+![beer filling up bottle slitscan](https://user-images.githubusercontent.com/28551587/228295253-76ab0be0-ca43-44d4-8f9a-d4eec3132287.png)
