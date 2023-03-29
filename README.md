@@ -3,7 +3,7 @@ Swap space and time with a video version of the "slit-scan" effect!
 
 ![7g7mvo](https://user-images.githubusercontent.com/28551587/228382056-7c516dc7-5914-4443-ba62-fb42f15506a5.gif)
 
-I will add examples here later, but for now, let's skip straight into how to use this code. Don't worry if you aren't a coder and this looks intimidating; you should be able to follow these instructions step-by-step, even without any technical knowledge.:
+I will add examples here later, but for now, let's skip straight into how to use this code. Don't worry if you aren't a coder and this looks intimidating; you should be able to follow these instructions step-by-step, even without any technical knowledge. If you do run into any problems, feel free to [reach out to me on Twitter](https://twitter.com/YitziLitt).
 ## How to use
 1. Make sure you have the latest version of Python installed on your computer (if you don't, you can download it at https://www.python.org/downloads/)
 2. Install git, if you haven't already (you can get it at https://git-scm.com/downloads)
