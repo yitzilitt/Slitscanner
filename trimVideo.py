@@ -4,8 +4,8 @@ import cv2
 input_video = input("Enter the video title (e.g. 'example.mp4'):\n")
 output_video = "TRIMMED " + input_video
 desired_pixel_height = 1080
-start_frame = 500  # Change this value to choose where to start extracting frames
-frames_to_extract = 1920
+start_frame = 1  # Change this value to choose where to start extracting frames
+frames_to_extract = 1080
 
 # Open the input video
 cap = cv2.VideoCapture(input_video)
