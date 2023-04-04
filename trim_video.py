@@ -1,4 +1,4 @@
-# The goal here is to output a video which is exactly 1080 pixels high, and lasts for exactly 1080 frames.
+# The goal here is to output a video which is exactly 1080 pixels high, and lasts for exactly 1440 frames.
 # The width of the video should stay the same.
 import cv2
 import numpy as np
@@ -76,7 +76,7 @@ if __name__ == "__main__":
                         "as this script.\nEnter the complete name of the video file (e.g. 'example video.mp4'):\n")
     output_video = "PREFORMATTED " + input_video
     target_height = 1080
-    target_frames = 1080
+    target_frames = 1440
     resize_video(input_video, output_video, target_height, target_frames)
     print("Done!\nOutput dimensions:")
     check_video_properties(output_video)
