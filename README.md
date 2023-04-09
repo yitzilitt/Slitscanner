@@ -16,3 +16,5 @@ That's it!
 
 ![beer filling up bottle slitscan](https://user-images.githubusercontent.com/28551587/228295253-76ab0be0-ca43-44d4-8f9a-d4eec3132287.png)
 Note: I have only tested this on .mp4 video files, and am not sure if this will work for other file formats.
+
+[![Watch the video](https://img.youtube.com/vi/lDuECnQYiJk/maxresdefault.jpg)](https://youtu.be/lDuECnQYiJk)
